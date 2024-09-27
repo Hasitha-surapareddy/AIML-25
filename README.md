@@ -3,3 +3,7 @@ Added Aiml Lab-1(Basics of numpy,pandas,matplotlib)https://github.com/Hasitha-su
 Added Aiml Lab-2(DFS,BFS,A*)https://github.com/Hasitha-surapareddy/AIML-25/blob/e3aba0ce4af4ccd3ef59ed0a3c3823d44dbc09db/AIML_2.ipynb
 
 Added Aiml Lab-3(Minimax and Alpha-beta pruning)https://github.com/Hasitha-surapareddy/AIML-25/blob/4cbadb63906dbaee1edc0c79e5314645d67d250d/AIML_3.ipynb
+
+Added Aiml Lab-4()https://github.com/Hasitha-surapareddy/AIML-25/blob/main/AIML_4.ipynb
+
+
