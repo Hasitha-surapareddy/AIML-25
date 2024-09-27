@@ -4,6 +4,6 @@ Added Aiml Lab-2(DFS,BFS,A*)https://github.com/Hasitha-surapareddy/AIML-25/blob/
 
 Added Aiml Lab-3(Minimax and Alpha-beta pruning)https://github.com/Hasitha-surapareddy/AIML-25/blob/4cbadb63906dbaee1edc0c79e5314645d67d250d/AIML_3.ipynb
 
-Added Aiml Lab-4()https://github.com/Hasitha-surapareddy/AIML-25/blob/main/AIML_4.ipynb
+Added Aiml Lab-4(Linear Regression)https://github.com/Hasitha-surapareddy/AIML-25/blob/main/AIML_4.ipynb
 
 
