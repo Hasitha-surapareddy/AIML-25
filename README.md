@@ -8,7 +8,7 @@ Added Aiml Lab-4(Linear Regression)https://github.com/Hasitha-surapareddy/AIML-2
 
 Added Aiml Lab-5( )https://github.com/Hasitha-surapareddy/AIML-25/blob/9a7e45fcc84d01c22cb3253ecc795be6cf48aac6/AIML_5.ipynb
 
-Added Aiml Lab-6( )https://github.com/Hasitha-surapareddy/AIML-25/blob/4fc3fc0c2c555a8b6c9a7fbca8e610b0ad6f9552/AIML6.ipynb
+Added Aiml Lab-6( )https://github.com/Hasitha-surapareddy/AIML-25/blob/aaa6efd3b847c1441ba399136173a6ce8b43c5db/AIML_6.ipynb
 
 Added Aiml Lab-7(SVM)https://github.com/Hasitha-surapareddy/AIML-25/blob/e19734daf00ee0896949e998faf0c8b9ed8fb2c9/AIML_7.ipynb
 
