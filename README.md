@@ -13,3 +13,5 @@ Added Aiml Lab-6( )https://github.com/Hasitha-surapareddy/AIML-25/blob/aaa6efd3b
 Added Aiml Lab-7(SVM)https://github.com/Hasitha-surapareddy/AIML-25/blob/e19734daf00ee0896949e998faf0c8b9ed8fb2c9/AIML_7.ipynb
 
 Added Aiml Lab-8(Decision Tree)https://github.com/Hasitha-surapareddy/AIML-25/blob/26a6107a440eadc751a9951418992ef4095aeb34/AIML_8.ipynb
+
+Added Aiml Lab-9(Random forest)plt.figure(figsize=(10,6))
