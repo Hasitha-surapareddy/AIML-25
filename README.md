@@ -17,3 +17,5 @@ Added Aiml Lab-8(Decision Tree)https://github.com/Hasitha-surapareddy/AIML-25/bl
 Added Aiml Lab-9(Random forest)https://github.com/Hasitha-surapareddy/AIML-25/blob/b92d84d0681c61d26d2a182107f09fe88cb4a0d1/AIML_9.ipynb
 
 Added Aiml Lab-10(Kmeans clustering)https://github.com/Hasitha-surapareddy/AIML-25/blob/eeffd5213db9075e38bc9d06c287bc08d7824bb4/AIML_10.ipynb
+
+Added Aiml Lab-10(https://github.com/Hasitha-surapareddy/AIML-25/blob/984f861d463ad2d4861477e1ec0fbdff096d305c/AIML_10.ipynb)
