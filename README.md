@@ -6,7 +6,7 @@ Added Aiml Lab-3(Minimax and Alpha-beta pruning)https://github.com/Hasitha-surap
 
 Added Aiml Lab-4(Linear Regression)https://github.com/Hasitha-surapareddy/AIML-25/blob/3a126cb94e0db4ba4910b2209783bcd2f276b7cb/AIML_4.ipynb
 
-Added Aiml Lab-5( )https://github.com/Hasitha-surapareddy/AIML-25/blob/9a7e45fcc84d01c22cb3253ecc795be6cf48aac6/AIML_5.ipynb
+Added Aiml Lab-5(Logistic regression )https://github.com/Hasitha-surapareddy/AIML-25/blob/9a7e45fcc84d01c22cb3253ecc795be6cf48aac6/AIML_5.ipynb
 
 Added Aiml Lab-6(KNN)https://github.com/Hasitha-surapareddy/AIML-25/blob/3302bafa780d6129c77e261f2cb8185617799cb5/AIML_6.ipynb
 
