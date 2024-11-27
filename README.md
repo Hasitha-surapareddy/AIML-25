@@ -8,9 +8,9 @@ Added Aiml Lab-4(Linear Regression)https://github.com/Hasitha-surapareddy/AIML-2
 
 Added Aiml Lab-5(Logistic regression )https://github.com/Hasitha-surapareddy/AIML-25/blob/9a7e45fcc84d01c22cb3253ecc795be6cf48aac6/AIML_5.ipynb
 
-Added Aiml Lab-6(KNN)https://github.com/Hasitha-surapareddy/AIML-25/blob/3302bafa780d6129c77e261f2cb8185617799cb5/AIML_6.ipynb
+Added Aiml Lab-6(K nearest-neighbour)https://github.com/Hasitha-surapareddy/AIML-25/blob/3302bafa780d6129c77e261f2cb8185617799cb5/AIML_6.ipynb
 
-Added Aiml Lab-7(SVM)https://github.com/Hasitha-surapareddy/AIML-25/blob/e19734daf00ee0896949e998faf0c8b9ed8fb2c9/AIML_7.ipynb
+Added Aiml Lab-7(Support vector machine)https://github.com/Hasitha-surapareddy/AIML-25/blob/e19734daf00ee0896949e998faf0c8b9ed8fb2c9/AIML_7.ipynb
 
 Added Aiml Lab-8(Decision Tree)https://github.com/Hasitha-surapareddy/AIML-25/blob/26a6107a440eadc751a9951418992ef4095aeb34/AIML_8.ipynb
 
